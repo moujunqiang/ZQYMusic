@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:design:24.2.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/AndndroidGradle/caches/transforms-2/files-2.1/187ac41c9ab077073920ecae5982c7fb/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://D:/AndndroidGradle/caches/transforms-2/files-2.1/187ac41c9ab077073920ecae5982c7fb/AndroidManifest.xml" />
+      <root url="jar://D:/AndndroidGradle/caches/transforms-2/files-2.1/187ac41c9ab077073920ecae5982c7fb/jars/classes.jar!/" />
+      <root url="file://D:/AndndroidGradle/caches/transforms-2/files-2.1/187ac41c9ab077073920ecae5982c7fb/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/AndndroidGradle/caches/modules-2/files-2.1/com.android.support/design/24.2.1/82b3f32ca8a26f0777230446c6530b5b8bcbd957/design-24.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

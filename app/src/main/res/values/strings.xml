@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZQY音乐</string>
+    <string name="local_music">本地音乐</string>
+    <string name="last_play">最近播放</string>
+    <string name="scan_music">扫描音乐</string>
+    <string name="about">关于</string>
+    <string name="version_name">当前版本 </string>
+    <string name="can_not_find_version_name">寻找当前版本出错</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
